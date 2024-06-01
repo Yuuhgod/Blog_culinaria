@@ -75,7 +75,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </a>
           </div>
           <div class="nav-link">
-          <a class="nav-item active" aria-current="page" href="../../public/index.php" id="nav-txt">
+          <a class="nav-item active" aria-current="page" href="login.php" id="nav-txt">
               <span class="material-icons align-middle">
                 arrow_back
               </span> VOLTAR
