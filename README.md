@@ -12,8 +12,8 @@ Este é um blog de culinária desenvolvido utilizando PHP, JavaScript, Bootstrap
 
 - **PHP:** Linguagem de programação utilizada para desenvolver a lógica do servidor, incluindo a manipulação de dados do banco de dados e a geração de páginas dinâmicas.
 - **JavaScript:** Utilizado para adicionar interatividade e dinamismo ao front-end do blog, como validação de formulários e requisições assíncronas.
-- **Bootstrap:** Framework front-end utilizado para criar um layout responsivo e estilizado para o blog, garantindo uma experiência visualmente atraente e consistente.
-- **Banco de Dados:** Utilizado para armazenar informações sobre usuários, postagens, comentários e outras entidades relacionadas ao blog.
+- **Bootstrap:** Framework front-end utilizado para criar um layout estilizado para o blog, garantindo uma experiência visualmente atraente e consistente.
+- **Banco de Dados:** Utilizado para armazenar informações sobre usuários, postagens e outras entidades relacionadas ao blog.
 
 ## Como Executar o Projeto
 
