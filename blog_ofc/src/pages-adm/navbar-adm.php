@@ -24,7 +24,7 @@
             </a>
           </div>
           <div class="nav-link">
-            <a class="nav-item active" aria-current="page" href="../public/index.php" id="nav-txt">
+            <a class="nav-item active" aria-current="page" href="user/logout.php"" id="nav-txt">
               <span class="material-icons align-middle">
                 logout
               </span> SAIR
