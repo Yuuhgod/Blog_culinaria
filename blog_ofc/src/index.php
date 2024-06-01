@@ -1,4 +1,9 @@
 <?php
+session_start();
+if (!isset($_SESSION['usuariowva']) || !isset($_SESSION['senhawva'])) {
+    header("Location: ./user/login.php");
+    exit;
+}
 include("config/database.php");
 ?>
 <!DOCTYPE html>

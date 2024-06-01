@@ -30,7 +30,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../public/images/carrossel/panquecas.jpg" class="d-block w-100" alt="..." height="480px">
+      <img src="../public/images/carrossel/panquecas.jpg" class="d-block w-100 " alt="..." height="480px">
       <div class="carousel-caption d-none d-md-block">
         <h5>Panquecas</h5>
         <p>Receita de panquecas americanas fofinhas para um café da manhã delicioso. Feitas com farinha de trigo,
@@ -38,7 +38,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../public/images/carrossel/risotocamarao.jpg" class="d-block w-100" alt="..." height="480px">
+      <img src="../public/images/carrossel/risotocamarao.jpg" class="d-block w-100 " alt="..." height="480px">
       <div class="carousel-caption d-none d-md-block">
         <h5>Risoto de Camarão</h5>
         <p>Risoto de camarão cremoso e saboroso para um jantar especial. Preparado com camarões frescos, arroz arbóreo,
@@ -46,7 +46,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="../public/images/carrossel/tortalimao.jpg" class="d-block w-100" alt="..." height="480px">
+      <img src="../public/images/carrossel/tortalimao.jpg" class="d-block w-100 " alt="..." height="480px">
       <div class="carousel-caption d-none d-md-block">
         <h5>Torta de Limão</h5>
         <p>Deliciosa torta de limão com base crocante e recheio cremoso. Feita com biscoito maisena, manteiga, leite
