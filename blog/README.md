@@ -30,10 +30,7 @@ Este é um blog de culinária desenvolvido utilizando PHP, JavaScript, Bootstrap
 3. **Configurar o Banco de Dados:**
    - Importe o arquivo SQL fornecido para criar a estrutura do banco de dados e popular algumas tabelas iniciais.
 
-4. **Configurar Variáveis de Ambiente:**
-   - Crie um arquivo `.env` na raiz do projeto e defina as variáveis de ambiente necessárias, como as credenciais de conexão com o banco de dados.
-
-5. **Iniciar o Servidor:**
+4. **Iniciar o Servidor:**
    - Inicie o servidor web local e acesse o blog através do navegador.
 
 ## Contribuição
